@@ -1,6 +1,8 @@
 #!/bin/bash
 #
 
+# Checking cmd  
+
 
 # installing nginx
 #
