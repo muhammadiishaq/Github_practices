@@ -1,0 +1,15 @@
+
+
+Installtion of nginx cmd how can we install
+
+
+first update system 
+
+sudo apt update -y
+
+sudo apt install nginx -y
+
+sudo systemctl start nginx
+
+sudo systemctl enable nginx
+
