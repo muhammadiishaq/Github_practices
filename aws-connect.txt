@@ -1,0 +1,6 @@
+# in this file we can connect with aws okay
+
+
+aws-key = 12432145413245
+
+
